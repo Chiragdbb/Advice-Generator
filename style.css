@@ -127,7 +127,7 @@
     }
     #advice-container{
         padding: 1.5rem;
-        padding-bottom: 3.25rem;
+        padding-bottom: 3.5rem;
     }
     #random {
         width: calc(100% - 3rem);
@@ -136,6 +136,6 @@
         font-size: 20px;
     }
     #divider{
-        margin-top:1rem;
+        margin-top:2rem;
     }
 }
